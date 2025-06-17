@@ -1,0 +1,6 @@
+.conda
+.vscode
+.ipynb_checkpoints
+data.csv
+bad_rows.csv
+__pycache__
