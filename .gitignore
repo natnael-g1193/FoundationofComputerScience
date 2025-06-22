@@ -2,5 +2,6 @@
 .vscode
 .ipynb_checkpoints
 data.csv
+data_old.csv
 bad_rows.csv
 __pycache__
